@@ -1,0 +1,12 @@
+c:\Users\Helpdesk\Documents\Visual Studio 2010\Projects\PositionUpdateXML\PositionUpdateXML\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\Helpdesk\Documents\Visual Studio 2010\Projects\PositionUpdateXML\PositionUpdateXML\obj\x86\Debug\Interop.SterlingLib.dll
+c:\Users\Helpdesk\Documents\Visual Studio 2010\Projects\PositionUpdateXML\PositionUpdateXML\obj\x86\Debug\PositionUpdateXML.csproj.ResolveComReference.cache
+c:\Users\Helpdesk\Documents\Visual Studio 2010\Projects\PositionUpdateXML\PositionUpdateXML\obj\x86\Debug\PositionUpdateXML.Properties.Resources.resources
+c:\Users\Helpdesk\Documents\Visual Studio 2010\Projects\PositionUpdateXML\PositionUpdateXML\obj\x86\Debug\ResGen.read.1.tlog
+c:\Users\Helpdesk\Documents\Visual Studio 2010\Projects\PositionUpdateXML\PositionUpdateXML\obj\x86\Debug\ResGen.write.1.tlog
+c:\Users\Helpdesk\Documents\Visual Studio 2010\Projects\PositionUpdateXML\PositionUpdateXML\bin\Debug\PositionUpdateXML.exe
+c:\Users\Helpdesk\Documents\Visual Studio 2010\Projects\PositionUpdateXML\PositionUpdateXML\bin\Debug\PositionUpdateXML.pdb
+c:\Users\Helpdesk\Documents\Visual Studio 2010\Projects\PositionUpdateXML\PositionUpdateXML\bin\Debug\Interop.SterlingLib.dll
+c:\Users\Helpdesk\Documents\Visual Studio 2010\Projects\PositionUpdateXML\PositionUpdateXML\obj\x86\Debug\PositionUpdateXML.exe
+c:\Users\Helpdesk\Documents\Visual Studio 2010\Projects\PositionUpdateXML\PositionUpdateXML\obj\x86\Debug\PositionUpdateXML.pdb
+c:\Users\Helpdesk\Documents\Visual Studio 2010\Projects\PositionUpdateXML\PositionUpdateXML\obj\x86\Debug\PositionUpdateXML.Form1.resources

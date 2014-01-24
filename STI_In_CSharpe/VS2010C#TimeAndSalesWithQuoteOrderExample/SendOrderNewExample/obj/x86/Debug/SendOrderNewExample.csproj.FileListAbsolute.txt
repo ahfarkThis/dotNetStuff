@@ -1,0 +1,16 @@
+c:\users\helpdesk\documents\visual studio 2010\Projects\SendOrderNewExample\SendOrderNewExample\bin\Debug\SendOrderNewExample.exe
+c:\users\helpdesk\documents\visual studio 2010\Projects\SendOrderNewExample\SendOrderNewExample\bin\Debug\SendOrderNewExample.pdb
+c:\users\helpdesk\documents\visual studio 2010\Projects\SendOrderNewExample\SendOrderNewExample\bin\Debug\Interop.SterlingLib.dll
+c:\users\helpdesk\documents\visual studio 2010\Projects\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\helpdesk\documents\visual studio 2010\Projects\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\Interop.SterlingLib.dll
+c:\users\helpdesk\documents\visual studio 2010\Projects\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.csproj.ResolveComReference.cache
+c:\users\helpdesk\documents\visual studio 2010\Projects\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.Form1.resources
+c:\users\helpdesk\documents\visual studio 2010\Projects\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.Properties.Resources.resources
+c:\users\helpdesk\documents\visual studio 2010\Projects\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\helpdesk\documents\visual studio 2010\Projects\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\helpdesk\documents\visual studio 2010\Projects\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.exe
+c:\users\helpdesk\documents\visual studio 2010\Projects\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.pdb
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\Interop.SterlingLib.dll
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.csproj.ResolveComReference.cache
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.exe
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.pdb

@@ -1,0 +1,12 @@
+c:\users\helpdesk\documents\visual studio 2010\Projects\MdxExample\MdxExample\bin\Debug\MdxExample.exe
+c:\users\helpdesk\documents\visual studio 2010\Projects\MdxExample\MdxExample\bin\Debug\MdxExample.pdb
+c:\users\helpdesk\documents\visual studio 2010\Projects\MdxExample\MdxExample\bin\Debug\Interop.SterlingLib.dll
+c:\users\helpdesk\documents\visual studio 2010\Projects\MdxExample\MdxExample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\helpdesk\documents\visual studio 2010\Projects\MdxExample\MdxExample\obj\x86\Debug\Interop.SterlingLib.dll
+c:\users\helpdesk\documents\visual studio 2010\Projects\MdxExample\MdxExample\obj\x86\Debug\MdxExample.csproj.ResolveComReference.cache
+c:\users\helpdesk\documents\visual studio 2010\Projects\MdxExample\MdxExample\obj\x86\Debug\MdxExample.Form1.resources
+c:\users\helpdesk\documents\visual studio 2010\Projects\MdxExample\MdxExample\obj\x86\Debug\MdxExample.Properties.Resources.resources
+c:\users\helpdesk\documents\visual studio 2010\Projects\MdxExample\MdxExample\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\helpdesk\documents\visual studio 2010\Projects\MdxExample\MdxExample\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\helpdesk\documents\visual studio 2010\Projects\MdxExample\MdxExample\obj\x86\Debug\MdxExample.exe
+c:\users\helpdesk\documents\visual studio 2010\Projects\MdxExample\MdxExample\obj\x86\Debug\MdxExample.pdb

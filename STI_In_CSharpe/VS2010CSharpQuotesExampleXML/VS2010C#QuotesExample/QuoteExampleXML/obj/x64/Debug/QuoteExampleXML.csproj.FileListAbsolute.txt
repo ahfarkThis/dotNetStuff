@@ -1,0 +1,11 @@
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteExampleXML\bin\x64\Debug\QuoteExampleXML.exe.config
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteExampleXML\bin\x64\Debug\QuoteExampleXML.exe
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteExampleXML\bin\x64\Debug\QuoteExampleXML.pdb
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteExampleXML\bin\x64\Debug\Interop.SterlingLib.dll
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteExampleXML\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteExampleXML\obj\x64\Debug\QuoteExampleXML.Form1.resources
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteExampleXML\obj\x64\Debug\QuoteExampleXML.Properties.Resources.resources
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteExampleXML\obj\x64\Debug\ResGen.read.1.tlog
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteExampleXML\obj\x64\Debug\ResGen.write.1.tlog
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteExampleXML\obj\x64\Debug\QuoteExampleXML.exe
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteExampleXML\obj\x64\Debug\QuoteExampleXML.pdb

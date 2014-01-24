@@ -1,0 +1,33 @@
+C:\Users\Helpdesk2\documents\visual studio 2010\Projects\SendOrderExample\SendOrderExample\obj\x86\Debug\Interop.SterlingLib.dll
+C:\Users\Helpdesk2\documents\visual studio 2010\Projects\SendOrderExample\SendOrderExample\obj\x86\Debug\SendOrderExample.csproj.ResolveComReference.cache
+C:\Users\Helpdesk2\documents\visual studio 2010\Projects\SendOrderExample\SendOrderExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Helpdesk2\documents\visual studio 2010\Projects\SendOrderExample\SendOrderExample\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Helpdesk2\documents\visual studio 2010\Projects\SendOrderExample\SendOrderExample\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Helpdesk2\documents\visual studio 2010\Projects\SendOrderExample\SendOrderExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Helpdesk2\documents\visual studio 2010\Projects\SendOrderExample\SendOrderExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Helpdesk2\Documents\Visual Studio 2010\Projects\SendOrderExample\SendOrderExample\bin\Debug\SendOrderExample.exe
+C:\Users\Helpdesk2\Documents\Visual Studio 2010\Projects\SendOrderExample\SendOrderExample\bin\Debug\SendOrderExample.pdb
+C:\Users\Helpdesk2\Documents\Visual Studio 2010\Projects\SendOrderExample\SendOrderExample\obj\x86\Debug\SendOrderExample.exe
+C:\Users\Helpdesk2\Documents\Visual Studio 2010\Projects\SendOrderExample\SendOrderExample\obj\x86\Debug\SendOrderExample.pdb
+C:\Users\Nick\Desktop\SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\Interop.SterlingLib.dll
+C:\Users\Nick\Desktop\SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\SendOrderExample.csproj.ResolveComReference.cache
+C:\Users\Nick\Desktop\SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\SendOrderExample.exe
+C:\Users\Nick\Desktop\SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\SendOrderExample.pdb
+C:\Users\Nick\Desktop\SendOrderExample\SendOrderExample\SendOrderExample\bin\Debug\SendOrderExample.exe
+C:\Users\Nick\Desktop\SendOrderExample\SendOrderExample\SendOrderExample\bin\Debug\SendOrderExample.pdb
+C:\Users\Nick\Desktop\SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nick\Desktop\SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nick\Desktop\SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nick\Desktop\SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\Interop.SterlingLib.dll
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\SendOrderExample.csproj.ResolveComReference.cache
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\SendOrderExample.exe
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\SendOrderExample.pdb
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#SendOrderExample\SendOrderExample\SendOrderExample\bin\Debug\SendOrderExample.exe
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#SendOrderExample\SendOrderExample\SendOrderExample\bin\Debug\SendOrderExample.pdb
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#SendOrderExample\SendOrderExample\SendOrderExample\obj\x86\Debug\GenerateResource.write.1.tlog

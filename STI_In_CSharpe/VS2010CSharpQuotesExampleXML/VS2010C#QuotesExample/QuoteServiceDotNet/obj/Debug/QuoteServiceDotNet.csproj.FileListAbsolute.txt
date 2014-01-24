@@ -1,0 +1,5 @@
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteServiceDotNet\bin\Debug\QuoteServiceDotNet.dll
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteServiceDotNet\bin\Debug\QuoteServiceDotNet.pdb
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteServiceDotNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteServiceDotNet\obj\Debug\QuoteServiceDotNet.dll
+C:\Users\customer\Desktop\STI In CSharpe\VS2010CSharpQuotesExampleXML\VS2010C#QuotesExample\QuoteServiceDotNet\obj\Debug\QuoteServiceDotNet.pdb

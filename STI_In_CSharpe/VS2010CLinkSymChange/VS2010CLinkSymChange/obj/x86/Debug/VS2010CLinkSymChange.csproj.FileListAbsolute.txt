@@ -1,0 +1,16 @@
+C:\Users\Nick\Desktop\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\Interop.SterlingLib.dll
+C:\Users\Nick\Desktop\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\VS2010CLinkSymChange.csproj.ResolveComReference.cache
+C:\Users\Nick\Desktop\VS2010CLinkSymChange\VS2010CLinkSymChange\bin\Debug\VS2010CLinkSymChange.exe
+C:\Users\Nick\Desktop\VS2010CLinkSymChange\VS2010CLinkSymChange\bin\Debug\VS2010CLinkSymChange.pdb
+C:\Users\Nick\Desktop\VS2010CLinkSymChange\VS2010CLinkSymChange\bin\Debug\Interop.SterlingLib.dll
+C:\Users\Nick\Desktop\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nick\Desktop\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nick\Desktop\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Nick\Desktop\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Nick\Desktop\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\VS2010CLinkSymChange.exe
+C:\Users\Nick\Desktop\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\VS2010CLinkSymChange.pdb
+C:\Users\Nick\Desktop\API Examples\C# Examples\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\Interop.SterlingLib.dll
+C:\Users\Nick\Desktop\API Examples\C# Examples\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\VS2010CLinkSymChange.csproj.ResolveComReference.cache
+C:\Users\Nick\Desktop\API Examples\C# Examples\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\VS2010CLinkSymChange.exe
+C:\Users\Nick\Desktop\API Examples\C# Examples\VS2010CLinkSymChange\VS2010CLinkSymChange\obj\x86\Debug\VS2010CLinkSymChange.pdb

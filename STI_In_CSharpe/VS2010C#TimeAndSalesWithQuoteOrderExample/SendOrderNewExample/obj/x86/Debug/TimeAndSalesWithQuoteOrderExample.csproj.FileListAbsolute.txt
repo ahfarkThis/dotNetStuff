@@ -1,0 +1,24 @@
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\bin\Debug\SendOrderNewExample.exe
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\bin\Debug\SendOrderNewExample.pdb
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\bin\Debug\Interop.SterlingLib.dll
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\Interop.SterlingLib.dll
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\TimeAndSalesWithQuoteOrderExample.csproj.ResolveComReference.cache
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\TimeAndSalesWithQuoteOrderExample.Form1.resources
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.Properties.Resources.resources
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.exe
+C:\Users\HelpDesk\Desktop\SendOrderNewExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.pdb
+C:\Users\HelpDesk\documents\visual studio 2010\Projects\TimeAndSalesWithQuoteOrderExample\SendOrderNewExample\obj\x86\Debug\Interop.SterlingLib.dll
+C:\Users\HelpDesk\documents\visual studio 2010\Projects\TimeAndSalesWithQuoteOrderExample\SendOrderNewExample\obj\x86\Debug\TimeAndSalesWithQuoteOrderExample.csproj.ResolveComReference.cache
+C:\Users\HelpDesk\documents\visual studio 2010\Projects\TimeAndSalesWithQuoteOrderExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.exe
+C:\Users\HelpDesk\documents\visual studio 2010\Projects\TimeAndSalesWithQuoteOrderExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.pdb
+C:\Users\HelpDesk\documents\visual studio 2010\Projects\TimeAndSalesWithQuoteOrderExample\SendOrderNewExample\bin\Debug\SendOrderNewExample.exe
+C:\Users\HelpDesk\documents\visual studio 2010\Projects\TimeAndSalesWithQuoteOrderExample\SendOrderNewExample\bin\Debug\SendOrderNewExample.pdb
+C:\Users\HelpDesk\documents\visual studio 2010\Projects\TimeAndSalesWithQuoteOrderExample\SendOrderNewExample\bin\Debug\Interop.SterlingLib.dll
+C:\Users\HelpDesk\documents\visual studio 2010\Projects\TimeAndSalesWithQuoteOrderExample\SendOrderNewExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HelpDesk\documents\visual studio 2010\Projects\TimeAndSalesWithQuoteOrderExample\SendOrderNewExample\obj\x86\Debug\TimeAndSalesWithQuoteOrderExample.Form1.resources
+C:\Users\HelpDesk\documents\visual studio 2010\Projects\TimeAndSalesWithQuoteOrderExample\SendOrderNewExample\obj\x86\Debug\SendOrderNewExample.Properties.Resources.resources
+C:\Users\HelpDesk\documents\visual studio 2010\Projects\TimeAndSalesWithQuoteOrderExample\SendOrderNewExample\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\HelpDesk\documents\visual studio 2010\Projects\TimeAndSalesWithQuoteOrderExample\SendOrderNewExample\obj\x86\Debug\ResGen.write.1.tlog

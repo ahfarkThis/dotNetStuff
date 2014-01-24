@@ -1,0 +1,5 @@
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#QuotesExample\QuoteExampleXML\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#QuotesExample\QuoteExampleXML\obj\x86\Release\Interop.SterlingLib.dll
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#QuotesExample\QuoteExampleXML\obj\x86\Release\QuoteExampleXML.csproj.ResolveComReference.cache
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#QuotesExample\QuoteExampleXML\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\customer\Desktop\STI In CSharpe\VS2010C#QuotesExample\QuoteExampleXML\obj\x86\Release\ResGen.write.1.tlog
